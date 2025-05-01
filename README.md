@@ -65,3 +65,8 @@ The dataset used for this dashboard contains Spotify data for various tracks, in
 - **Line Chart**: Used to visualize track streams over time.
 - **Map (if applicable)**: Geo-location-based visualizations could be added if location data is available.
 
+## Contact Information:
+- Email: teerthgupta19@gmail.com
+- LinkedIn:[https://www.linkedin.com/in/teerth-gupta-52a248243/]
+- Name-Teerth Gupta
+
