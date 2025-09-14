@@ -33,6 +33,13 @@ The dataset used for this dashboard contains Spotify data for various tracks, in
 - **Map (if applicable)**: Geo-location-based visualizations could be added if location data is available.
   
 # Result:
+- **The top 10 tracks contributed only ≈ 5.9% of total streams, showing that listening activity is broadly distributed across many songs.
+
+- **Tracks with danceability ≥ 70 and energy ≥ 60 make up ≈ 34.6% of the dataset, confirming strong listener preference for upbeat and energetic music.
+
+- **Among the top 100 streamed tracks, 63% have low acousticness (<30%), highlighting the dominance of digitally produced, high-energy styles over acoustic ones.
+
+- **Total streams for tracks released in 2023 were ~71.7% higher than in 2018, reflecting the rapid growth of streaming consumption in recent years.
 
 
 ## Contact Information:
