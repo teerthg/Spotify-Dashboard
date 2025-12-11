@@ -42,8 +42,10 @@ The dataset used for this dashboard contains Spotify data for various tracks, in
 - **Total streams for tracks released in 2023 were ~71.7% higher than in 2018, reflecting the rapid growth of streaming consumption in recent years.
 
 
-## Contact Information:
-- Email: teerthgupta19@gmail.com
-- LinkedIn:[https://www.linkedin.com/in/teerth-gupta-52a248243/]
-- Name-Teerth Gupta
+## Author
+**Teerth Gupta**  
+Master’s in Statistics and Data Science, Uppsala University  
+Sweden | Data Analytics | Power BI | Machine Learning  
 
+**Email:** teerthgupta19@gmail.com  
+**GitHub:** https://github.com/teerthgupta
